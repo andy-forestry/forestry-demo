@@ -3,6 +3,9 @@ label: posts
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  label: Title
+  name: title
 - name: layout
   label: Layout
   type: text
