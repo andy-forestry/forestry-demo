@@ -12,5 +12,5 @@ fields:
   hidden: false
   default: post
 pages:
-- _posts/another-post.md
 - _posts/2018-11-26-a-new-post.md
+- _posts/another-post.md
