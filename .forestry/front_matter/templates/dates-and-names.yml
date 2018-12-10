@@ -10,3 +10,5 @@ fields:
 - type: text
   name: name
   label: Name
+pages:
+- _data/datename.yml
