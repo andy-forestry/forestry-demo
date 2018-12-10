@@ -13,4 +13,4 @@ This is an example of a draft post. Draft posts aren't included when publishing 
 
 This is great for authoring work in progress content, or hiding content that shouldn't be available at the current time.
 
-If I change this, it should be updated in the preview. 
+If I change this, it should be updated in the preview.
