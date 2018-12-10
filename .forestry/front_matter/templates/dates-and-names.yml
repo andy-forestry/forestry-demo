@@ -3,15 +3,10 @@ label: Dates and Names
 hide_body: false
 is_partial: false
 fields:
-- type: datetime
-  name: title
-  label: Title-date
-  description: A date that is also a title
-- type: text
-  name: name
-  label: Name
 - type: blocks
   label: Date and Name pairs
   name: dates_and_names
+  template_types:
+  - date-and-name-block
 pages:
 - _data/datename.yml
